@@ -1,3 +1,5 @@
+The zh-hans translation uses the following glossary. Please refer to this document for any future revisions.
+
 ## Key Game Terms
 - Philosopher's Stone: 贤者之石
 - Storyline: 剧情线
@@ -16,11 +18,11 @@
 - Research: 研究
 - Spellcrafting: 法术制作
 - Study: 学习
-- Retirement: 归隐 (Game mechanic where you restart with bonuses)
+- Retirement: 归隐
 - World Difficulty: 世界难度
 - Challenge: 挑战
 - Enhancement: 强化
 - Prism: 棱镜
-- Satell: 萨特尔 (Character name)
-- Lytha: 莉瑟 (Character name)
-- Zeth: 泽斯 (Race/Faction name)
+- Satell: 萨特尔
+- Lytha: 莉瑟
+- Zeth: 泽斯

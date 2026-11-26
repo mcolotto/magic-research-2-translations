@@ -13,7 +13,7 @@ This repository is meant to be used as a way to organize crowd-translations of t
 * English (United States): Done (N/A, original language)
 * Portuguese (Brazil): ch1coon (In progress)
 * Chinese (Simplified): QihangL (In progress)
-* Russian: [Faceless Ghost](https://github.com/galactic-mind) — [translation v1.0.0](ru/ru/translations.json), ready for beta testing; all 4,646 keys from the English base for game v1.8.6 are included. Prepared with GPT-5.6 Thinking assistance.
+* Russian: Done — [Faceless Ghost](https://github.com/galactic-mind) — [translation v1.0.0](ru/ru/translations.json); all 4,646 keys from the English base for game v1.8.6 are included. Prepared with GPT-5.6 Thinking assistance.
 
 The Russian translation matches the English `base-translations.json` from [commit `4aa8ce4`](https://github.com/mcolotto/magic-research-2-translations/commit/4aa8ce429af8f3360064961213685775a92b5278). JSON syntax, key coverage, interpolation parameters, icons, link targets, and keyboard shortcuts have been checked. This is a downloadable custom translation for the repository's English base; inclusion in a game release is a separate step.
 
